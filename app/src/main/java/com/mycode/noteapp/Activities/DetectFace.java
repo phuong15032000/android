@@ -136,11 +136,8 @@ public class DetectFace extends AppCompatActivity implements CameraBridgeViewBas
                 try {
                     String s = ClientTCP.din.readUTF();
                     Log.d("tagcn", "s: "+s);
-                    if (s.equals("2")){
+                    if (s.equals("unlock")){
                         Log.d("tagcn", "2");
-                        //ClientTCP.
-                        //Toast.makeText(DetectFace.this, "Nhan dang thanh cong", Toast.LENGTH_SHORT).show();
-                        //ClientTCP.disconnect();
                         startActivity(new Intent(DetectFace.this, MainActivity.class));
                     }
                     else {

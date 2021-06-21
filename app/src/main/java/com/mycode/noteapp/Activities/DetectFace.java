@@ -169,8 +169,8 @@ public class DetectFace extends AppCompatActivity implements CameraBridgeViewBas
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
-                Log.d("tag", "FramSize : " + a);
-                Log.d("tag", "B6ase4 String : " + b6ase4_String);
+                Log.d("tag", "FrameSize : " + a);
+                Log.d("tag", "Base64 String : " + b6ase4_String);
                 Log.d("tagcn", "Lan thu : " + count);
                 count=count+1;
             }

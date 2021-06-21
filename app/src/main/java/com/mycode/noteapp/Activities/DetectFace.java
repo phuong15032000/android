@@ -114,7 +114,6 @@ public class DetectFace extends AppCompatActivity implements CameraBridgeViewBas
         mRgba.release();
         mGrey.release();
     }
-    int temp = 0;
     int count = 1;
     @RequiresApi(api = Build.VERSION_CODES.O)
     @Override
@@ -142,6 +141,7 @@ public class DetectFace extends AppCompatActivity implements CameraBridgeViewBas
                     }
                     else {
                         Log.d("tagcn", "khong phai 2");
+                        count = 1;
                         continue;
                     }
                 } catch (IOException e) {

@@ -28,14 +28,14 @@ Một số hình ảnh demo:
 
 
 
-4. Mở khoá bằng mật khẩu
+4. Mở khoá bằng mật khẩu<br />
 ![demo4](https://scontent-hkg4-1.xx.fbcdn.net/v/t1.15752-9/201349062_829360584684816_3120177940044159575_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_ohc=jkh6QqUHSC4AX81U1Mr&_nc_ht=scontent-hkg4-1.xx&oh=1e3ede8002d2792501c381b8f8797658&oe=60D4A4B9)
 
 
 
 
 
-5. Mở khoá bằng gương mặt
+5. Mở khoá bằng gương mặt<br />
 ![demo5](https://scontent-hkg4-1.xx.fbcdn.net/v/t1.15752-9/201173764_199118592101986_1144722416540302003_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_ohc=uUiQKz31dmwAX9AhXmM&tn=argkVnDAia8JK_2p&_nc_ht=scontent-hkg4-1.xx&oh=256e95b4efa2c75f80160117c7dca7df&oe=60D515A5)
 
 
@@ -43,7 +43,7 @@ Một số hình ảnh demo:
 
 
 
-#Hướng dẫn cài đặt
+<b> Hướng dẫn cài đặt <b>
 1) Clone 2 project là NoteApp và Facenet_android về máy
 2) Trong Facenet_android, mở file Server.java, sửa biến masterPath thành tên đường dẫn lưu project Facenet_android
 3) Trong Facenet_android, mở file src/android.py, sửa biến MASTER_PATH thành tên đường dẫn lưu project Facenet_android

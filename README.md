@@ -4,11 +4,11 @@
 Một điểm nổi bật so với những ứng dụng sổ ghi chú đã có trên thị trường thì ứng dụng của chúng em ngoài việc có thể mở khoá bằng mật khẩu thì còn có thể mở khoá bằng gương mặt.<br/>
 Chức năng:
 <ul>
-<li class="ele" style="color: yellow;">Tạo mật khẩu cho lần đầu sử dụng</li>
-<li class="ele">Mở khoá bằng mật khẩu</li>
-<li class="ele">Mở khoá bằng gương mặt</li>
-<li class="ele">Xem, thêm, sửa, xoá ghi chú</li>
-<li class="ele">Thêm ảnh vào ghi chú</li>
+<li>Tạo mật khẩu cho lần đầu sử dụng</li>
+<li>Mở khoá bằng mật khẩu</li>
+<li>Mở khoá bằng gương mặt</li>
+<li>Xem, thêm, sửa, xoá ghi chú</li>
+<li>Thêm ảnh vào ghi chú</li>
 </ul>
 Một số hình ảnh demo:
 

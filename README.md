@@ -1,4 +1,4 @@
-<style>{#ele{fontColor: yellow;}}</style>
+<style {#ele{fontColor: yellow;}}></style>
 # Giới thiệu về NoteApp
 Đây là một ứng dụng sổ ghi chú trên hệ điều hành android, được chúng em hoàn thiện bằng ngôn ngữ java, python.
 Một điểm nổi bật so với những ứng dụng sổ ghi chú đã có trên thị trường thì ứng dụng của chúng em ngoài việc có thể mở khoá bằng mật khẩu thì còn có thể mở khoá bằng gương mặt.<br/>

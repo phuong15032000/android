@@ -8,7 +8,7 @@ Chức năng:
 <li>Mở khoá bằng gương mặt</li>
 <li>Xem, thêm, sửa, xoá ghi chú</li>
 <li>Thêm ảnh vào ghi chú</li>
-<ul><br/>
+</ul>
 Một số hình ảnh demo:
 
 1. Màn hình chính<br />
